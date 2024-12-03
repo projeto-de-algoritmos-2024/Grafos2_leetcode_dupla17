@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/1008436  |  Ryan Augusto Brandão Salles |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1008481  |  Víctor Moreira Almeida |
 
 ## Sobre 
 Alguns exercícios do leetcode sobre grafos 2 (prim, scc, etc.)
