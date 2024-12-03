@@ -13,7 +13,7 @@
 Alguns exercícios do leetcode sobre grafos 2 (prim, scc, etc.)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![code 329](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos2_leetcode_dupla17/refs/heads/master/pictures/rodando329.png) 
 
 ## Instalação 
 **Linguagem**: Python<br>
